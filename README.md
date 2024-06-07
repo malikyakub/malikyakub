@@ -1,4 +1,4 @@
-                                                                                                                                              ![Profile views](https://komarev.com/ghpvc/?username=malikyakub)
+  ![Profile views](https://komarev.com/ghpvc/?username=malikyakub)
 
 
 - 👋 Hi, I’m @malikyakub
