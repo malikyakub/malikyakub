@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="TailwindCSS" width="50" height="50" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/bootstrap/563D7C" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/0000ff" alt="Next.js" width="50" height="50"/>
 </div>
 
 ### Databases
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 ### Version Control
 <div>
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="50" height="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/github/lightgray" alt="GitHub" width="50" height="50"/>
 </div>
 
 
