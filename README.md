@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 
 ## Tools
 <div>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/0078D7" alt="VS Code" width="50" height="50" style="margin-right: 20px;"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="50" height="50" style="margin-right: 20px;"/>
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" width="50" height="50" style="margin-right: 20px;"/>
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Illustrator" width="50" height="50" style="margin-right: 20px;"/>
@@ -52,8 +52,16 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 I'm currently enhancing my skills in full-stack development and exploring cloud technologies.
 
 ## Connect with Me
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/malik-yakub-75778a324)
-[![Twitter](https://cdn.simpleicons.org/x/1DA1F2)](https://x.com/malikyakub55777)
-[![Website](https://img.shields.io/badge/Website-mk--yakub.netlify.app-brightgreen)](https://mk-yakub.netlify.app)
+<div>
+  <a href="https://www.linkedin.com/in/malik-yakub-75778a324" style="margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="80" height="30" />
+  </a>
+  <a href="https://x.com/malikyakub55777" style="margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="80" height="30" />
+  </a>
+  <a href="https://mk-yakub.netlify.app" style="margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/internetexplorer/brightgreen" alt="Website" width="80" height="30" />
+  </a>
+</div>
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
