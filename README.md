@@ -1,5 +1,3 @@
-![Profile Image](board.png)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=malikyakub)
 
 # Malik Yakub
@@ -11,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 ## Skills
 - Programming Languages: JavaScript, Python
 - Web Technologies: HTML, CSS, React
+- Frameworks: TailwindCSS, Bootstrap, Next.js
 - Database: MySQL, SQLite
 - Version Control: Git, GitHub
 
