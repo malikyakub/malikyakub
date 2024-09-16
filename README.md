@@ -9,34 +9,34 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 
 ### Programming Languages
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50" style="margin-right: 10px;"/>
 </div>
 
 ### Web Technologies
 <div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" width="50" height="50" style="margin-right: 10px;"/>
 </div>
 
 ### Frameworks
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="TailwindCSS" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/563D7C" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="50" height="50"/>
 </div>
 
 ### Databases
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="50" height="50"/>
 </div>
 
 ### Version Control
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="50" height="50"/>
 </div>
 
 
