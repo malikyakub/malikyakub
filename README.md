@@ -40,16 +40,8 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 I'm currently enhancing my skills in full-stack development and exploring cloud technologies.
 
 ## Connect with Me
-<div>
-  <a href="https://www.linkedin.com/in/malik-yakub-75778a324" style="margin-right: 10px;">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="80" height="30" />
-  </a>
-  <a href="https://x.com/malikyakub55777" style="margin-right: 10px;">
-    <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="80" height="30" />
-  </a>
-  <a href="https://mk-yakub.netlify.app" style="margin-right: 10px;">
-    <img src="https://cdn.simpleicons.org/internetexplorer/brightgreen" alt="Website" width="80" height="30" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Yakub-blue)](https://www.linkedin.com/in/malik-yakub-75778a324)
+[![Twitter](https://img.shields.io/badge/Twitter-%40malikyakub-1DA1F2)](https://x.com/malikyakub55777)
+[![Website](https://img.shields.io/badge/Website-mk--yakub.netlify.app-brightgreen)](https://mk-yakub.netlify.app)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
