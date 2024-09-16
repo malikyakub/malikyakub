@@ -7,11 +7,25 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 
 
 ## Skills
-- Programming Languages: JavaScript, Python
-- Web Technologies: HTML, CSS, React
-- Frameworks: TailwindCSS, Bootstrap, Next.js
-- Database: MySQL, SQLite
-- Version Control: Git, GitHub
+
+- Programming Languages:
+  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
+  - ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
+- Web Technologies:
+  - ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML
+  - ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS
+  - ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
+- Frameworks:
+  - ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) TailwindCSS
+  - ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) Bootstrap
+  - ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) Next.js
+- Databases:
+  - ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL
+  - ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) SQLite
+- Version Control:
+  - ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
+  - ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub
+
 
 ## Tools
 - Visual Studio Code
