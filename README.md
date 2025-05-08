@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=malikyakub)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikyakub&show_icons=true&theme=radical)]
+
 
 # Malik Yakub
 ### Software Developer
@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 - Adobe Illustrator
 - Adobe Lightroom
 
-## Current Focus
-I'm currently enhancing my skills in full-stack development and exploring cloud technologies.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikyakub&show_icons=true&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Yakub-blue)](https://www.linkedin.com/in/malik-yakub-75778a324)
