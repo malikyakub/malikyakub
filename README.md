@@ -38,7 +38,8 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and innova
 - Adobe Illustrator
 - Adobe Lightroom
 
-
+----
+##Let's wrap it up
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikyakub&show_icons=true&theme=radical)
 
 ## Connect with Me
