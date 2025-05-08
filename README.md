@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=malikyakub)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikyakub&show_icons=true&theme=radical)]
+
 # Malik Yakub
 ### Software Developer
 
