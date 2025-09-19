@@ -1,51 +1,67 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=malikyakub)
 
 
-
 # Malik Yakub
-### Software Developer
+### Software Developer | Web & Mobile
 
-Welcome to my GitHub profile! I'm passionate about creating efficient and innovative software solutions.
+Welcome to my GitHub profile!  
+I’m passionate about building **efficient, practical, and user-friendly software solutions**. I enjoy learning, improving, and collaborating, and I’m always excited to work on projects that make an impact.  
+Currently turning ☕ into code and ideas into apps. 🚀
+
+---
 
 ## Skills
 
 ### Programming Languages
 - JavaScript
+- TypeScript
 - Python
+- C#
 
 ### Web Technologies
 - HTML
 - CSS
 
-### Frameworks
-- React
-- TailwindCSS
-- Bootstrap
-- Next.js
+### Frameworks & Libraries
+- **React**, **React Native**, **Next.js**, **Node.js**, Express, TailwindCSS, Bootstrap
 
 ### Databases
 - MySQL
 - SQLite
+- SQL Server
 
 ### Version Control
 - Git
 - GitHub
 
-## Tools
+### Tools & Platforms
 - Visual Studio Code
+- Expo
+- Vercel
 - Figma
+- Notion
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe Lightroom
 
-----
-## Let's wrap it up
+---
+
+## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikyakub&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikyakub&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malikyakub&theme=radical)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=malikyakub.malikyakub)
+
+---
+
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Yakub-blue)](https://www.linkedin.com/in/malik-yakub-75778a324)
-[![Twitter](https://img.shields.io/badge/Twitter-%40malikyakub-1DA1F2)](https://x.com/malikyakub55777)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Yakub-blue)](https://www.linkedin.com/in/malik-yakub-75778a324)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40malikyakub-1DA1F2)](https://x.com/malikyakub55777)  
 [![Website](https://img.shields.io/badge/Website-mk--yakub.netlify.app-brightgreen)](https://mk-yakub.netlify.app)
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
+Feel free to explore my repositories and reach out for collaborations or discussions!  
+
