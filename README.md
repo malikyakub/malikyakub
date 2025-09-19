@@ -53,7 +53,6 @@ Currently turning ☕ into code and ideas into apps. 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikyakub&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malikyakub&theme=radical)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=malikyakub.malikyakub)
 
 ---
 
