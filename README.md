@@ -2,7 +2,7 @@
 
 
 # Malik Yakub
-### Software Developer | Web & Mobile
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&width=435&lines=Software+Engineer;Front+end+developer;UI+%2F+UX+designer;Mobile+app+developer)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!  
 I’m passionate about building **efficient, practical, and user-friendly software solutions**. I enjoy learning, improving, and collaborating, and I’m always excited to work on projects that make an impact.  
