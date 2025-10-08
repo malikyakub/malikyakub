@@ -52,7 +52,7 @@ Currently turning ☕ into code and ideas into apps. 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikyakub&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malikyakub&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=malikyakub&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
