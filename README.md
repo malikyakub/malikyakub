@@ -53,7 +53,7 @@ Currently turning ☕ into code and ideas into apps. 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikyakub&layout=compact&theme=radical)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malikyakub)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=malikyakub&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
@@ -61,7 +61,7 @@ Currently turning ☕ into code and ideas into apps. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Yakub-blue)](https://www.linkedin.com/in/malik-yakub-75778a324)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40malikyakub-1DA1F2)](https://x.com/malikyakub55777)  
-[![Website](https://img.shields.io/badge/Website-mk--yakub.netlify.app-brightgreen)](https://mk-yakub.netlify.app)
+[![Website](https://img.shields.io/badge/portfolio-malikyakub.dev-brightgreen)](https://www.malikyakub.dev/)
 
 Feel free to explore my repositories and reach out for collaborations or discussions!  
 
