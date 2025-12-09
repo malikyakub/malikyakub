@@ -23,7 +23,13 @@ Currently turning ☕ into code and ideas into apps. 🚀
 - CSS
 
 ### Frameworks & Libraries
-- **React**, **React Native**, **Next.js**, **Node.js**, Express, TailwindCSS, Bootstrap
+- **React**,
+- **React Native**,
+- **Next.js**,
+- **Node.js**,
+- **Express**,
+- **TailwindCSS**,
+- **Bootstrap**
 
 ### Databases
 - MySQL
@@ -53,7 +59,7 @@ Currently turning ☕ into code and ideas into apps. 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikyakub&layout=compact&theme=radical)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=malikyakub&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com?user=malikyakub&theme=dark&short_numbers=true)
 
 ---
 
